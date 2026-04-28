@@ -1,0 +1,4 @@
+scenario,n_paths,pct_of_total,tourism_p5_nzd_bn,tourism_median_nzd_bn,tourism_p95_nzd_bn,gdp_impact_median_bn,employment_chg_k_med
+negative_shock,1573,15.7,60.69,68.69,72.25,-27.99,146.9
+base_case,6896,69.0,73.83,83.09,93.18,9.98,242.7
+boom,1531,15.3,95.26,100.23,114.21,55.19,356.8
